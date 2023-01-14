@@ -2,3 +2,4 @@
 
 * Joker
 * Lex Luthor
+* Killer croc
